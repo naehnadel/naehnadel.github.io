@@ -11,7 +11,7 @@ layout: home
 ![pic3]()
 ![pic4]()
 
-# __STOFFMASKEN (MIT IHREM LOGO) IN VERSCHIEDENEN FARBEN UND MUSTERN VORHANDEN__
+## __Stoffmasken (mit Ihrem Logo) in verschiedenen Farben und Mustern vorhanden!__
 
 ## Herzlich Willkomm bei der Nähnadel-Schneiderei
 
