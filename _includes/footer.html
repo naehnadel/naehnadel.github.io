@@ -12,7 +12,9 @@
             {%- if site.author -%}
               {{ site.author | escape }}
             {%- else -%}
-              {{ site.title | escape }}
+              {{ site.address | escape }}
+              {{ site.city | escape }}
+              {{ site.telnr | escape }}
             {%- endif -%}
             </li>
             {%- if site.email -%}
