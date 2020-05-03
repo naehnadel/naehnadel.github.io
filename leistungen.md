@@ -9,7 +9,7 @@ permalink: /leistungen/
 ![Nadel](img/n.jpg#transitionContainer)
 <span style="color: grey; font-size: 11px">Foto von [Alexander Andrews](https://unsplash.com/@alex_andrews) auf [Unsplash](https://unsplash.com) </span>
 
-**Modernste Maschinen - für filigranste Feinarbeit**
+**Modernste Maschinen für filigranste Feinarbeit**
 
 Wir stehen Ihnen mit mordernsten Nähmachinen, unserer langjährigen Erfahrung und unserer verbürgten Qualität zur Verfügung. Hier ist Ihre Kleidung für Hochzeiten, Abibällen und anderen Feierlichkeiten in besten Händen. Individuelle Beratung, Professionalität und Perfektion sind hier die passenden Begriffe. Die professionelle Maßschneiderin passt Ihre Kleider individuell an und näht neue Kleidungsstücke blitzschnell für Sie. So brauchen Sie nie allzu lange auf Ihre klassischen Lieblingsstücke zu verichten, oder auf die neuen zu warten!
 
