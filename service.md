@@ -4,8 +4,7 @@ title: Service
 permalink: /service/
 ---
 
-![Abiballkleid]()
-![Ihre Maßschneiderin]()
+![Garn](img/g.jpg)
 
 ## Service wird bei uns groß geschrieben!
 

@@ -6,10 +6,7 @@ title: Home
 layout: home
 ---
 
-![pic1]()
-![pic2]()
-![pic3]()
-![pic4]()
+![Nähmaschine](img/m.jpg)
 
 <h2><strong>Stoffmasken (mit Ihrem Logo) in verschiedenen Farben und Mustern vorhanden!</strong></h2>
 
@@ -20,5 +17,7 @@ Nähnadel ist super Zentral und sehr einfach zuerreichen. Wenn es mal schnell ge
 Wir kennen die Lösung und setzen sie sehr rasch,sorgfältig und preiswert um.<br/><br/><br/>
 Ihre Maßschneiderin<br/>
 Afsaneh Keyvanfar
+
+![Nadel und Schere](img/s.jpg)
 
 
