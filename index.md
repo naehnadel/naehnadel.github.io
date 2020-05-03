@@ -7,6 +7,7 @@ layout: home
 ---
 
 ![Nähmaschine](img/m.jpg)
+<span style="color: grey; font-size: 11px">Foto von [Pexels](https://freerangestock.com/photographer/Pexels/4556) auf [Freerange](https://freerangestock.com/) </span>
 
 <h2><strong>Stoffmasken (mit Ihrem Logo) in verschiedenen Farben und Mustern vorhanden!</strong></h2>
 
@@ -19,5 +20,6 @@ Ihre Maßschneiderin<br/>
 Afsaneh Keyvanfar
 
 ![Nadel und Schere](img/s.jpg)
+<span style="color: grey; font-size: 11px">Foto von [Pixabay](https://www.pexels.com/@pixabay) auf [Pexels](https://www.pexels.com/) </span>
 
 
