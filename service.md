@@ -4,7 +4,7 @@ title: Service
 permalink: /service/
 ---
 
-![Garn](img/g.jpg)
+![Garn](img/g2.jpg)
 
 ## Service wird bei uns groß geschrieben!
 
