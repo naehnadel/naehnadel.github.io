@@ -49,6 +49,21 @@ main {
   display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
 }
 
+/**
+ * Picture Animation
+ */
+ @keyframes transitionIn {
+   from {
+    opacity: 0;
+    transform: rotateX(-10deg);
+   }
+
+   to {
+     opacity: 1;
+     transform: rotateX(0);
+   }
+ }
+
 
 
 /**
@@ -58,6 +73,14 @@ img {
   max-width: 100%;
   vertical-align: middle;
 }
+
+img[src*="#transitionContainer"] {
+  animation: transitionIn 0.8s;
+}
+
+
+
+
 
 
 

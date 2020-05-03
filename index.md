@@ -6,7 +6,7 @@ title: Startseite
 layout: home
 ---
 
-![Nähmaschine](img/m.jpg)
+![Nähmaschine](img/m.jpg#transitionContainer)
 <span style="color: grey; font-size: 11px">Foto von [Pexels](https://freerangestock.com/photographer/Pexels/4556) auf [Freerange](https://freerangestock.com/) </span>
 
 <h2><strong>Stoffmasken (mit Ihrem Logo) in verschiedenen Farben und Mustern vorhanden!</strong></h2>
@@ -19,7 +19,7 @@ Wir kennen die Lösung und setzen sie sehr rasch,sorgfältig und preiswert um.<b
 Ihre Maßschneiderin<br/>
 Afsaneh Keyvanfar
 
-![Nadel und Schere](img/s.jpg)
+![Nadel und Schere](img/s.jpg#transitionContainer)
 <span style="color: grey; font-size: 11px">Foto von [Pixabay](https://www.pexels.com/@pixabay) auf [Pexels](https://www.pexels.com/) </span>
 
 

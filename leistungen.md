@@ -6,7 +6,7 @@ permalink: /lesitungen/
 
 [//]: # SCHNELLDIENST - KLEINE ÄNDERUNGEN BIS ZU 24 STUNDEN VOR IHREN FESTTERMIN
 
-![Nadel](img/n.jpg)
+![Nadel](img/n.jpg#transitionContainer)
 <span style="color: grey; font-size: 11px">Foto von [Alexander Andrews](https://unsplash.com/@alex_andrews) auf [Unsplash](https://unsplash.com) </span>
 
 **Modernste Maschinen - für filigranste Feinarbeit**
@@ -29,7 +29,7 @@ Wir stehen Ihnen mit mordernsten Nähmachinen, unserer langjährigen Erfahrung u
 - und viel mehr...
 
 <br/>
-![Schneider](img/f.jpg)
+![Schneider](img/f.jpg#transitionContainer)
 <span style="color: grey; font-size: 11px"> Foto von [Jack Moreh](https://freerangestock.com/photographer/Jack-Moreh/2728) auf [Freerange](https://freerangestock.com/) </span>
 
 **Ihre individuellen Wünsche werden liebevoll und exklusiv für Sie verwirklicht**
