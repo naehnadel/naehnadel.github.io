@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Leistungen
-permalink: /lesitungen/
+permalink: /leistungen/
 ---
 
 [//]: # SCHNELLDIENST - KLEINE ÄNDERUNGEN BIS ZU 24 STUNDEN VOR IHREN FESTTERMIN
