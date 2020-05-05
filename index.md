@@ -9,6 +9,7 @@ layout: home
 ![Nähmaschine](img/m.jpg#transitionContainer)
 <span style="color: grey; font-size: 11px">Foto von [Pexels](https://freerangestock.com/photographer/Pexels/4556) auf [Freerange](https://freerangestock.com/) </span>
 
+![Maske](img/mask.jpg#transitionContainer)
 <h2><strong>Stoffmasken (mit Ihrem Logo) in verschiedenen Farben und Mustern vorhanden!</strong></h2>
 
 ## Herzlich Willkomm bei der Nähnadel-Schneiderei
