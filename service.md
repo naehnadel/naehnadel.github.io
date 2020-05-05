@@ -16,3 +16,6 @@ Sie vermissen noch etwas, haben Fragen oder Anregungen? Nehmen Sie doch einfach 
 Auf Ihre Anfrage freuen wir uns!
 <br/><br/><br/>
 Am besten kommen Sie einfach persönlich mit Ihrem Anliegen vorbei
+
+![Nähmaschine](img/m.jpg#transitionContainer)
+<span style="color: grey; font-size: 11px">Foto von [Pexels](https://freerangestock.com/photographer/Pexels/4556) auf [Freerange](https://freerangestock.com/) </span>
