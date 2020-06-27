@@ -18,4 +18,5 @@ Wenn Sie Fragen oder Probleme haben, können Sie natürlich über unsere Service
 ## Öffnungszeiten
 
 Di-Fr: 9:00-13:00 , 15:00-18:00<br/>
-Sa:    10:00-13:00
+Sa:    10:00-13:00<br/>
+So,Mo: Ruhetag
