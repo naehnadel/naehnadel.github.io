@@ -6,8 +6,16 @@ title: Startseite
 layout: home
 ---
 
-![Maske](img/mask.jpg#transitionContainer)
-<h2><strong>Stoffmasken (mit Ihrem Logo) in verschiedenen Farben und Mustern vorhanden!</strong></h2>
+<div style="background: LightCoral; margin: 10px; padding: 30px; font-style:italic;">
+<h3><strong>Hinweise zu der aktuellen Pandemie-Sitation (Coronavirus SARS-CoV-2):</strong></h3>
+<ul>
+<li>Wir dürfen <strong>keine körpernahen Dienstleistung</strong> anbieten. Dazu gehört insbesondere das Maßnehmen. Sie können aber natürlich bereits abgesteckte Kleidungsstücke bei uns abgeben.</li>
+<li>Es darf sich maximal <strong>eine Person</strong> im Kundenbereich aufhalten!</li>
+<li>Bitte halten Sie stets den <strong>Minimalabstand von 1,5 Meter!</strong></li>
+<li>Das <strong>Tragen einer medizinischen Maske</strong> vor dem Betreten des Ladens ist Pflicht!</li>
+</ul>
+</div>
+<br/><br/>
 
 ## Herzlich Willkomm bei der Nähnadel-Schneiderei
 
