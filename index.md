@@ -9,8 +9,8 @@ layout: home
 ## Herzlich Willkomm bei der Nähnadel-Schneiderei
 
 Ich freue mich sehr, Ihnen meine Dienstleistungen in den Bereichen Maßanfertigung und Änderungsdienst anbieten zu können.<br/><br/>
-Nähnadel ist super Zentral und sehr einfach zuerreichen. Wenn es mal schnell gehen muss, egal ob es darum geht, die Hose original zu kürzen, Schritt-Reparaturen vorzunehmen, oder das Kleid enger zu schneidern: Wir können Ihnen helfen!<br/><br/>
-Wir kennen die Lösung und setzen sie sehr rasch,sorgfältig und preiswert um.<br/><br/><br/>
+Nähnadel ist superzentral und sehr einfach zu erreichen. Wenn es mal schnell gehen muss, egal ob es darum geht, die Hose original zu kürzen, Schritt-Reparaturen vorzunehmen, oder das Kleid enger zu schneidern: Wir können Ihnen helfen!<br/><br/>
+Wir kennen die Lösung und setzen sie sehr rasch, sorgfältig und preiswert um.<br/><br/><br/>
 Ihre Maßschneiderin<br/>
 Afsaneh Keyvanfar
 
