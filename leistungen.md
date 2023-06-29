@@ -28,6 +28,10 @@ Wir stehen Ihnen mit mordernsten Nähmachinen, unserer langjährigen Erfahrung u
 - Spezialreparatur von Taschen und Rucksäcken, Motorrad-Bekleidung und Druckknöpfen
 - und viel mehr...
 
+### Wichtiger Hinweis zur Abholung
+
+Bitte beachten Sie, dass unser Lagerplatz begrenzt ist. Sollten wir Sie telefonisch nicht erreichen oder keine Kontaktdaten von Ihnen haben, werden Kleidungsstücke, die innerhalb von 2 Monaten nach dem vereinbarten Abholdatum nicht abgeholt werden, gespendet oder entsorgt.
+
 <br/>
 ![Schneider](img/f.jpg#transitionContainer)
 <span style="color: grey; font-size: 11px"> Foto von [Jack Moreh](https://freerangestock.com/photographer/Jack-Moreh/2728) auf [Freerange](https://freerangestock.com/) </span>
