@@ -18,6 +18,5 @@ Wenn Sie Fragen oder Probleme haben, können Sie natürlich über unsere Service
 ## Öffnungszeiten
 
 <!-- Sa:    10:00-13:00<br/> -->
-**Di.–Fr.:** _9:00–13:00 , 15:00–18:00_  
-**Sa.** _10:00–13:00_  
-**Mo.:** _geschlossen_
+**Dienstag – Freitag:** _9:00–13:00 , 15:00–18:00_  
+**Samstag – Montag:** _geschlossen_  
