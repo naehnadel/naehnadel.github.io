@@ -6,15 +6,28 @@ title: Startseite
 layout: home
 ---
 
-## Herzlich Willkomm bei der Nähnadel-Schneiderei
+## Herzlich Willkommen in der Nähnadel-Schneiderei
 
-Ich freue mich sehr, Ihnen meine Dienstleistungen in den Bereichen Maßanfertigung und Änderungsdienst anbieten zu können.<br/><br/>
-Nähnadel ist superzentral und sehr einfach zu erreichen. Wenn es mal schnell gehen muss, egal ob es darum geht, die Hose original zu kürzen, Schritt-Reparaturen vorzunehmen, oder das Kleid enger zu schneidern: Wir können Ihnen helfen!<br/><br/>
-Wir kennen die Lösung und setzen sie sehr rasch, sorgfältig und preiswert um.<br/><br/><br/>
-Ihre Maßschneiderin<br/>
+Ihr Atelier für perfekten Sitz – zentral im Herzen der Stadt.
+
+Ob Sie ein Kleidungsstück nach Maß anfertigen lassen möchten oder eine schnelle, professionelle Änderung benötigen – bei uns sind Sie in besten Händen. Wir verbinden traditionelles Handwerk mit modernem Service.
+
+### Schneller Änderungsservice
+
+Dank unserer zentralen Lage sind wir auch dann für Sie da, wenn es eilt.
+
+Muss die Hose **original gekürzt** werden? Benötigt Ihr Lieblingsstück eine **fachgerechte Reparatur** oder soll ein Kleid **perfekt angepasst** werden? Wir finden die Lösung und setzen Ihre Wünsche rasch, mit größter Sorgfalt und zu fairen Preisen um.
+
+### Individuelle Maßanfertigung
+
+Sie haben eine genaue Vorstellung von Ihrem Traumkleid oder einem perfekt sitzenden Anzug? Wir beraten Sie ausführlich und schneidern Ihr persönliches Einzelstück mit Präzision und Leidenschaft.
+
+**Kommen Sie vorbei – wir freuen uns auf Ihren Besuch!**
+
+Ihre Maßschneiderin
 Afsaneh Keyvanfar
 
-![Nadel und Schere](img/s.jpg#transitionContainer)
+![Nadel und Schere](img/s.webp#transitionContainer)
 <span style="color: grey; font-size: 11px">Foto von [Pixabay](https://www.pexels.com/@pixabay) auf [Pexels](https://www.pexels.com/) </span>
 
 

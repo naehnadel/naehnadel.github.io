@@ -4,7 +4,7 @@ title: Service
 permalink: /service/
 ---
 
-![Garn](img/g2.jpg#transitionContainer)
+![Garn](img/g2.webp#transitionContainer)
 <span style="color: grey; font-size: 11px">Foto von [Tim Mossholder](https://unsplash.com/@timmossholder) auf [Unsplash](https://unsplash.com) </span>
 
 ## Service wird bei uns groß geschrieben!
@@ -17,5 +17,5 @@ Auf Ihre Anfrage freuen wir uns!
 <br/><br/><br/>
 Am besten kommen Sie einfach persönlich mit Ihrem Anliegen vorbei
 
-![Nähmaschine](img/m.jpg#transitionContainer)
+![Nähmaschine](img/m.webp#transitionContainer)
 <span style="color: grey; font-size: 11px">Foto von [Pexels](https://freerangestock.com/photographer/Pexels/4556) auf [Freerange](https://freerangestock.com/) </span>
