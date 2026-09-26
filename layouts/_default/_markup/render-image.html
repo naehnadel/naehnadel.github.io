@@ -1,0 +1,1 @@
+<img src="{{ if (hasPrefix .Destination "/") }}{{ .Destination }}{{ else }}/{{ .Destination }}{{ end }}" alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }}>

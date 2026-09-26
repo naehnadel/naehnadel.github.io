@@ -1,0 +1,6 @@
+{{ define "main" }}
+<div class="home">
+  {{ with .Title }}<h1 class="page-heading">{{ . }}</h1>{{ end }}
+  {{ .Content }}
+</div>
+{{ end }}

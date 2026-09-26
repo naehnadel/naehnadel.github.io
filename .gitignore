@@ -1,6 +1,8 @@
-_site
-.sass-cache
-.jekyll-metadata
-.DS_Store
-_ignore
+# Hugo build output
+public/
+resources/_gen/
+.hugo_build.lock
 
+# OS metadata
+.DS_Store
+Thumbs.db

@@ -1,0 +1,17 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="stylesheet" href="{{ "assets/main.css" | relURL }}">
+  <link rel="shortcut icon" type="image/png" href="{{ "img/favicon.png" | relURL }}">
+  <link rel="prefetch" href="{{ "img/c.webp" | relURL }}">
+  <link rel="prefetch" href="{{ "img/c2.webp" | relURL }}">
+  <link rel="prefetch" href="{{ "img/f.webp" | relURL }}">
+  <link rel="prefetch" href="{{ "img/g.webp" | relURL }}">
+  <link rel="prefetch" href="{{ "img/g2.webp" | relURL }}">
+  <link rel="prefetch" href="{{ "img/m.webp" | relURL }}">
+  <link rel="prefetch" href="{{ "img/s.webp" | relURL }}">
+</head>

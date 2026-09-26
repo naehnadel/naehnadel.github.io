@@ -1,0 +1,27 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relURL }}"></data>
+  <div class="wrapper">
+    <h2 class="footer-heading">{{ site.Params.owner }}</h2>
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">
+            {{ site.Params.address }} <br/>
+            {{ site.Params.city }} <br/>
+            {{ site.Params.telnr }}
+          </li>
+          {{ with site.Params.email }}
+          <li><a class="u-email" href="mailto:{{ . }}">{{ . }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list"></ul>
+      </div>
+      <div class="footer-col footer-col-3">
+        <p>{{ site.Params.description }}</p>
+        <p><small>&copy; {{ now.Format "2006" }} - <a href="{{ "/impressum/" | relURL }}">Impressum</a></small></p>
+      </div>
+    </div>
+  </div>
+</footer>

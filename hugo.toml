@@ -1,0 +1,37 @@
+baseURL = 'https://naehnadel.eu/'
+defaultContentLanguage = 'de'
+locale = 'de-DE'
+title = 'Nähnadel Maß- & Änderungsschneiderei'
+disableKinds = ['taxonomy', 'term']
+
+[params]
+  owner = 'Afsaneh Keyvanfar'
+  address = 'Ferdinand-Wallbrecht-Straße 69'
+  city = '30163 Hannover'
+  telnr = '+49 511 54571175'
+  masthead = '/img/logo.svg'
+  email = 'ak@naehnadel.eu'
+  description = 'Ihre Maßschneiderin in Hannover mit über 20 Jahren Erfahrung.'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    name = 'Startseite'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    name = 'Leistungen'
+    url = '/leistungen/'
+    weight = 2
+  [[menu.main]]
+    name = 'Service'
+    url = '/service/'
+    weight = 3
+  [[menu.main]]
+    name = 'Kontakt'
+    url = '/kontakt/'
+    weight = 4
