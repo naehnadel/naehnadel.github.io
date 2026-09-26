@@ -12,6 +12,14 @@ Ihr Atelier für perfekten Sitz – zentral im Herzen der Stadt.
 
 Ob Sie ein Kleidungsstück nach Maß anfertigen lassen möchten oder eine schnelle, professionelle Änderung benötigen – bei uns sind Sie in besten Händen. Wir verbinden traditionelles Handwerk mit modernem Service.
 
+## Brautkleid Änderungen – Preis nach Besichtigung
+
+1. Brautkleid kürzen
+2. Brautkleid enger/weiter
+3. Ärmel / Träger ändern
+4. Reißverschluss / Knöpfe / Corsage
+5. Spitze, Tüll & Perlen
+
 ### Schneller Änderungsservice
 
 Dank unserer zentralen Lage sind wir auch dann für Sie da, wenn es eilt.
